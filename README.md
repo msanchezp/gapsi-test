@@ -9,6 +9,11 @@ swagger file in src/main/resources/swagger.yaml
 ## POSTMAN TESTS
 https://www.getpostman.com/collections/1329f254f2317f36979a
 
+<br>
+<hr>
+<strong>Pasos para desplegar localmente</strong>
+<hr>
+
 ## Gradle clean and build
 gradle clean build 
 
