@@ -11,7 +11,7 @@ https://www.getpostman.com/collections/1329f254f2317f36979a
 
 <br>
 <hr>
-<strong>Pasos para desplegar localmente</strong>
+<strong>Steps to deploy in localhost</strong>
 <hr>
 
 ## Gradle clean and build
